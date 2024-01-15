@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Project1",
+    "backgroundColor":"#55005A",
     "slug": "Project1",
     "version": "1.0.0",
     "orientation": "portrait",
