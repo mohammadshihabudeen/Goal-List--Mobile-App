@@ -101,6 +101,6 @@ button : {
 },
 buttonInside: {
   padding:10,
-  paddingLeft: 100,
+  paddingLeft: "30%",
 }
 });

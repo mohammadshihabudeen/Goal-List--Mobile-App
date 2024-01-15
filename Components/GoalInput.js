@@ -60,12 +60,12 @@ const styles = StyleSheet.create({
        button : {
         backgroundColor:'#6b0089',
         borderRadius: 10,
-        padding:4
+        padding:4,
+        margin:10
        },
        buttonContainer: {
         flexDirection: 'row',
         justifyContent : 'space-between',
-        width: "70%",
         marginTop:20
        },
        image: {
